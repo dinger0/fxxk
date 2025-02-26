@@ -1,0 +1,3 @@
+[submodule "MLiA"]
+	path = MLiA
+	url = https://github.com/dinger0/MLiA.git
